@@ -27,7 +27,6 @@ Passionate about building scalable backend systems, AI-powered applications, and
 ## 👨‍💻 About Me
 
 - 🎓 B.E. Computer Engineering Student at **Thadomal Shahani Engineering College (TSEC)**
-- 💼 Software Engineer at **Deloitte**
 - 💻 Backend Developer with interest in AI, Distributed Systems and System Design
 - 🌱 Currently learning **FastAPI, LangChain, RAG, Docker, Redis & LLMs**
 - ⚡ Always building scalable backend applications
