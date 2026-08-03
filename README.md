@@ -77,6 +77,7 @@ Passionate about building scalable backend systems, AI-powered applications, and
 - Tesseract OCR
 - PDF Processing
 - Vector Search
+- Pydantic
 
 ---
 
