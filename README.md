@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Third Year Computer Engineering Student at **Thadomal Shahani Engineering College (TSEC)**
+- 🎓 Fourth Year Computer Engineering Student at **Thadomal Shahani Engineering College (TSEC)**
 - 💼 Software Engineering Intern at **Deloitte**
 - 💻 Passionate about **Backend Development**, **System Design**, and **Artificial Intelligence**
 - 🤖 Currently building AI-powered backend applications using **RAG**, **LLMs**, and **OCR**
