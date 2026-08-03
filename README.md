@@ -35,9 +35,9 @@ Passionate about building scalable backend systems, AI-powered applications, and
 
 ## 🏆 Achievements
 
-- 🧩 Solved **700+ LeetCode Problems**
-- 💼 Software Engineer Intern at **Deloitte**
-- 🤖 Building AI-powered backend applications using **LLMs & RAG**
+- 🧩 Solved **750+ LeetCode Problems**
+- 🏆 **1× International Hackathon Winner** — Mindfulness Hack
+- 🥈 **2× Hackathon Finalist** — Mumbai Hacks 2025 & Odoo Hackathon 2026
 - 🚀 Strong foundation in **Data Structures, Algorithms & Backend Engineering**
 
 ---
