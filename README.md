@@ -43,7 +43,7 @@
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,js,python" />
+<img src="https://skillicons.dev/icons?i=java,cpp,js,python" />
 </p>
 
 ### Frontend
