@@ -68,11 +68,6 @@ Passionate about building scalable backend systems, AI-powered applications, and
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis" />
 </p>
 
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
-</p>
 
 ### AI
 
