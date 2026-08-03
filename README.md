@@ -67,7 +67,7 @@
 ### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode />
 </p>
 
 ### AI & Machine Learning
