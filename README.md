@@ -27,28 +27,18 @@ Passionate about building scalable backend systems, AI-powered applications, and
 ## 👨‍💻 About Me
 
 - 🎓 B.E. Computer Engineering Student at **Thadomal Shahani Engineering College (TSEC)**
-- 💻 Backend Developer with interest in AI, Distributed Systems and System Design
+- 💻 Backend Developer with interests in **AI, Distributed Systems & System Design**
 - 🌱 Currently learning **FastAPI, LangChain, RAG, Docker, Redis & LLMs**
-- ⚡ Always building scalable backend applications
-
----
-
-## 💼 Experience
-
-| Organization | Role |
-|--------------|------|
-| **Deloitte** | Software Engineer |
-| **GDG on Campus TSEC** | Joint Tech Head |
+- ⚡ Passionate about building scalable backend applications
 
 ---
 
 ## 🏆 Achievements
 
 - 🧩 Solved **700+ LeetCode Problems**
-- 💼 Software Engineer at **Deloitte**
-- 🤖 Building AI-powered Backend Applications
-- 🚀 Strong foundation in Data Structures & Algorithms
-- 📚 Exploring RAG, LLMs & System Design
+- 💼 Software Engineer Intern at **Deloitte**
+- 🤖 Building AI-powered backend applications using **LLMs & RAG**
+- 🚀 Strong foundation in **Data Structures, Algorithms & Backend Engineering**
 
 ---
 
@@ -86,8 +76,6 @@ Passionate about building scalable backend systems, AI-powered applications, and
 
 ### AI
 
-<p>
-
 - Gemini API
 - LangChain
 - Retrieval-Augmented Generation (RAG)
@@ -95,7 +83,15 @@ Passionate about building scalable backend systems, AI-powered applications, and
 - PDF Processing
 - Vector Search
 
-</p>
+---
+
+# 💼 Experience
+
+| Organization | Role | Duration |
+| :----------- | :--- | :------: |
+| **Deloitte** | Software Engineer Intern | Jun 2026 – Present |
+| **AiBi Streets Pvt. Ltd.** | Full Stack Engineer | Jul 2024 – May 2025 |
+| **Bynocs Pvt. Ltd.** | Full Stack Engineer | Jun 2023 – May 2024 |
 
 ---
 
