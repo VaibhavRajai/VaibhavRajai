@@ -28,7 +28,6 @@ Passionate about building scalable backend systems, AI-powered applications, and
 
 - 🎓 B.E. Computer Engineering Student at **Thadomal Shahani Engineering College (TSEC)**
 - 💻 Backend Developer with interests in **AI, Distributed Systems & System Design**
-- 🌱 Currently learning **FastAPI, LangChain, RAG, Docker, Redis & LLMs**
 - ⚡ Passionate about building scalable backend applications
 
 ---
