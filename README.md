@@ -27,13 +27,7 @@ Currently exploring system design, distributed systems, concurrency, database ar
 
 # 💻 Tech Stack
 
-### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,java,js" />
-</p>
-
-**Also:** SQL
 
 ### Frontend
 
@@ -61,6 +55,13 @@ Currently exploring system design, distributed systems, concurrency, database ar
 - LangChain
 - Retrieval-Augmented Generation (RAG)
 
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,js" />
+</p>
+
+**Also:** SQL
 ---
 
 ## 🤝 Connect With Me
