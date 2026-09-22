@@ -26,18 +26,12 @@ Passionate about building scalable backend systems, AI-powered applications, and
 
 ## 👨‍💻 About Me
 
-- 🎓 B.E. Computer Engineering Student at **Thadomal Shahani Engineering College (TSEC)**
-- 💻 Backend Developer with interests in **AI, Distributed Systems & System Design**
-- ⚡ Passionate about building scalable backend applications
+-Hey, I’m Vaibhav — a backend developer passionate about building real-world software.
 
----
+I work with Node.js, Express, PostgreSQL, MongoDB, and REST APIs to build reliable and scalable applications.
+Currently diving deeper into distributed systems, system design, AI agents, LLMs, and backend architecture.
 
-## 🏆 Achievements
 
-- 🧩 Solved **750+ LeetCode Problems**
-- 🏆 **1× International Hackathon Winner** — Mindfulness Hack
-- 🥈 **2× Hackathon Finalist** — Mumbai Hacks 2025 & Odoo Hackathon 2026
-- 🚀 Strong foundation in **Data Structures, Algorithms & Backend Engineering**
 
 ---
 
