@@ -69,10 +69,8 @@ Currently exploring system design, distributed systems, concurrency, database ar
 
 💼 **LinkedIn:** https://www.linkedin.com/in/vaibhav-rajai-b957a2283/
 
-🧩 **LeetCode:** https://leetcode.com/u/Vaibhav_Rajai/
+
 
 ---
 
-<p align="center">
-<i>"Code. Learn. Build. Repeat."</i>
-</p>
+
