@@ -1,12 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Rajai</h1>
 
-<h3 align="center">
-Backend Developer • AI Enthusiast • Software Engineer
-</h3>
-
-<p align="center">
-Passionate about building scalable backend systems, AI-powered applications, and solving real-world engineering problems.
-</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vaibhav-rajai-b957a2283/">
