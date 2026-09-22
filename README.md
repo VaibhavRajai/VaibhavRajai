@@ -10,7 +10,7 @@ Currently diving deeper into distributed systems, system design, AI agents, LLMs
 
 
 ---
-#Profiles 
+##Profiles 
 <p align="center">
 <a href="https://www.linkedin.com/in/vaibhav-rajai-b957a2283/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
