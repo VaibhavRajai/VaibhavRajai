@@ -38,7 +38,7 @@ Currently exploring system design, distributed systems, concurrency, database ar
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,tailwind,html,css](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
 ### Backend & APIs
