@@ -1,5 +1,16 @@
 
 
+## 👨‍💻 About Me
+
+ I’m Vaibhav — a backend developer passionate about building real-world software.
+
+I work with Node.js, Express, PostgreSQL, MongoDB, and REST APIs to build reliable and scalable applications.
+Currently diving deeper into distributed systems, system design, AI agents, LLMs, and backend architecture.
+
+
+
+---
+#Profiles 
 <p align="center">
 <a href="https://www.linkedin.com/in/vaibhav-rajai-b957a2283/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -15,16 +26,6 @@
 </p>
 
 ---
-
-## 👨‍💻 About Me
-
--Hey, I’m Vaibhav — a backend developer passionate about building real-world software.
-
-I work with Node.js, Express, PostgreSQL, MongoDB, and REST APIs to build reliable and scalable applications.
-Currently diving deeper into distributed systems, system design, AI agents, LLMs, and backend architecture.
-
-
-
 ---
 
 # 💻 Tech Stack
