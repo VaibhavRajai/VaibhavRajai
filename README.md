@@ -1,16 +1,14 @@
-
-
 ## 👨‍💻 About Me
 
- I’m Vaibhav — a backend developer passionate about building real-world software.
+I’m Vaibhav — a backend developer focused on building scalable and reliable software systems.
 
-I work with Node.js, Express, PostgreSQL, MongoDB, and REST APIs to build reliable and scalable applications.
-Currently diving deeper into distributed systems, system design, AI agents, LLMs, and backend architecture.
-
-
+I work with Node.js, Express.js, PostgreSQL, MongoDB, Redis, and RESTful APIs to build backend services and distributed applications.  
+Currently exploring system design, distributed systems, concurrency, database architecture, LLMs, and RAG.
 
 ---
+
 ## Profiles 
+
 <p align="center">
 <a href="https://www.linkedin.com/in/vaibhav-rajai-b957a2283/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -26,54 +24,42 @@ Currently diving deeper into distributed systems, system design, AI agents, LLMs
 </p>
 
 ---
----
 
 # 💻 Tech Stack
 
-### Languages
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,js,python" />
+<img src="https://skillicons.dev/icons?i=cpp,java,js" />
 </p>
+
+**Also:** SQL
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,tailwind,html,css" />
 </p>
 
-### Backend
+### Backend & APIs
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
+**Also:** Pydantic, RESTful APIs, Microservices, API Integration
+
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis" />
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,mysql,supabase" />
 </p>
 
+### AI / ML
 
-### AI
-
-- Gemini API
+- Google Gemini API
 - LangChain
 - Retrieval-Augmented Generation (RAG)
-- Tesseract OCR
-- PDF Processing
-- Vector Search
-- Pydantic
-
----
-
-# 💼 Experience
-
-| Organization | Role | Duration |
-| :----------- | :--- | :------: |
-| **Deloitte** | Software Engineer Intern | Jun 2026 – Present |
-| **AiBi Streets Pvt. Ltd.** | Full Stack Engineer | Jul 2024 – May 2025 |
-| **Bynocs Pvt. Ltd.** | Full Stack Engineer | Jun 2023 – May 2024 |
 
 ---
 
